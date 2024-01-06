@@ -9,7 +9,6 @@
 	Java SE 8, Maven, Spring Boot 2.7.17, PostgreSQL, Spring Data, Spring HATEOAS, Spring Security, AWS S3 для работы с Object Storage.
 
 Конфигурация приложения осуществляется путем указания ключей в файле resources/application.properties
-
 	accessKey=			идентификатор ключа доступа к сервису Yandex.Cloud(не обязателен)
 	secretKey=			секретный ключ доступа к сервису Yandex.Cloud(не обязателен)
 	bucketName=			наименование приватного bucket(не обязателен)
